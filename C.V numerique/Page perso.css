@@ -1,0 +1,41 @@
+header {
+  display: flex;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.798);
+  justify-content: space-around;
+  color: rgb(255, 255, 255);
+}
+
+.logo{
+  width: 200px;
+  border-radius: 10%;
+}
+#logo{ color: white;
+  display:flex;
+  justify-content: center;
+}
+
+
+body {
+  margin: 0%;
+  background-image: url(./HD\ wallpaper_\ digital\,\ technology\,\ pattern\,\ sky\,\ line\,\ digital\ art\,\ glow.jpg);
+  background-size: cover;
+}
+div {
+  margin: 320px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.Perso {
+  background-color: rgba(135, 255, 249, 0.755);
+  width: 750px;
+  margin-left: 35%;
+  margin-top: 50px;
+  color: rgba(0, 23, 99, 0.979);
+  padding: 50px;
+  border-radius: 30px;
+  font-size: 30px;
+}
+ul{ list-style: none;
+
+}

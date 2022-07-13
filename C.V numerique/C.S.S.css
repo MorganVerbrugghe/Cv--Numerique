@@ -1,0 +1,49 @@
+header {
+  display: flex;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.798);
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  font-size: 28px;
+}
+body {
+  margin: 0%;
+  background-image: url(./HD\ wallpaper_\ digital\,\ technology\,\ pattern\,\ sky\,\ line\,\ digital\ art\,\ glow.jpg);
+  background-size: cover;
+}
+div {
+  margin: 0px 450px 0px;
+  
+}
+h1 { font-size: 25px;
+  color: rgb(17, 255, 255);
+  background-color: rgba(0, 0, 0, 0.9);
+  border-radius: 3%;
+  border: solid white;
+  margin-left: 34%;
+  width: 600px;
+  padding: 30px;
+  
+}
+p{display: flex;
+  justify-content: center;
+  color: white;
+  font-size: 18px;
+  background-color: rgba(0, 0, 0, 0.697);
+}
+.logoCliquable {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.Logosolo{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+
+}
+.logo {
+  border-radius: 10%;
+  width: 250px;
+ 
+}

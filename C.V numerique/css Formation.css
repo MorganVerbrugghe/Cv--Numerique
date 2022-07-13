@@ -1,0 +1,59 @@
+header {
+  display: flex;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.798);
+  justify-content: space-around;
+  color: rgb(255, 255, 255);
+}
+
+.logo{
+  width: 200px;
+  border-radius: 10%;
+}
+#logo{ color: white;
+  display:flex;
+  justify-content: center;
+}
+
+
+body {
+  margin: 0%;
+  background-image: url(./HD\ wallpaper_\ digital\,\ technology\,\ pattern\,\ sky\,\ line\,\ digital\ art\,\ glow.jpg);
+  background-size: cover;
+}
+
+.Formation {
+  background-color: rgba(156, 152, 152, 0.85);
+  width: 700px;
+  margin-top: 70px;
+  color: rgba(43, 80, 202, 0.9);
+  padding: 50px;
+  margin-left: 30%;
+  border-radius: 30px;
+}
+.Formationtitre {
+  display: flex;
+  justify-content: center;
+  font-size: 60px;
+  background-color: rgba(10, 2, 2, 0.779);
+  border-radius: 40%;
+  color: rgb(35, 232, 243);
+}
+
+#TitreFormation {
+  font-weight: bold;
+  color: rgb(21, 25, 85);
+  font-size: 20px;
+}
+
+#Lieuformation {
+  font-weight: bold;
+  color: rgb(46, 104, 166);
+  font-size: 15px;
+}
+
+#DatesFormation {
+  font-weight: bold;
+  color: rgb(36, 215, 246);
+  font-size: 12px;
+}

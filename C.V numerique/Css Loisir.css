@@ -1,0 +1,50 @@
+header {
+  display: flex;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.798);
+  justify-content: space-around;
+  color: rgb(255, 255, 255);
+}
+
+.logo{
+  width: 200px;
+  border-radius: 10%;
+}
+#logo{ color: white;
+  display:flex;
+  justify-content: center;
+}
+
+body {
+  margin: 0%;
+  background-image: url(./HD\ wallpaper_\ digital\,\ technology\,\ pattern\,\ sky\,\ line\,\ digital\ art\,\ glow.jpg);
+  background-size: cover;
+}
+
+.Loisir {
+  background-color: rgba(37, 120, 46, 0.77);
+  width: 550px;
+  margin-left: 35%;
+  margin-top: 50px;
+  color: rgba(43, 80, 202, 0.9);
+  padding: 50px;
+  border-radius: 30px;
+}
+.title{background-color: rgba(48, 48, 227, 0.705);
+color: blanchedalmond;
+font-size: 30px;
+display: flex;
+justify-content: center;
+border-radius: 50%;
+margin: 0px 120px;
+}
+.LogoLoisir {
+  border-radius: 50%;
+  width: 80px;
+}
+
+#LoisirText {
+  color: rgb(162, 246, 255);
+  font-size: 30px;
+}
+li{list-style: none;}

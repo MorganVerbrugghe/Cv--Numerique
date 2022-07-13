@@ -1,0 +1,233 @@
+header {
+  display: flex;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.798);
+  justify-content: space-around;
+  color: rgb(255, 255, 255);
+}
+
+.logoHeader{
+  width: 200px;
+  border-radius: 10%;
+}
+#logo{ color: white;
+  display:flex;
+  justify-content: center;
+}
+
+body {
+  margin: 0%;
+  background-image: url(./HD\ wallpaper_\ digital\,\ technology\,\ pattern\,\ sky\,\ line\,\ digital\ art\,\ glow.jpg);
+  background-size: cover;
+ 
+
+}
+
+.Comp2 {
+    display: flex;
+    justify-content: center;
+  background-color: rgba(38, 32, 32, 0.742);
+margin:30px 200px;
+  color: rgba(12, 208, 219, 0.952);
+  border-radius: 30px;
+}
+.Competence {
+  display: flex;
+  flex-direction: column;
+ align-self:center;
+  background-color: rgba(255, 255, 255, 0.85);
+  width: 50%;
+  color: rgba(43, 80, 202, 0.9);
+  padding: 50px;
+  margin-left: 25%;
+  margin-top: 150px;
+  border-radius: 30px;
+}
+.logo {
+  height: 50px;
+}
+.logoBootstrap{
+  height: 50px;
+  border-radius: 15%;
+}
+.listeCompétence{
+    background-color: rgba(125, 233, 228, 0.705);
+    border-radius: 10px;
+    color: blue;
+    margin: 10px 200px;
+}
+li {
+  list-style:symbols();
+}
+
+#Skill-GOOGLE {
+  width: 90%;
+  height: 60px;
+  animation-name: google;
+  animation-duration: 3s;
+  background-color: #2aa532;
+  margin: 10px;
+}
+@keyframes google {
+  0% {
+    width: 5%;
+  }
+  100% {
+    width: 90%;
+  }
+}
+#Skill-HTML {
+  width: 70%;
+  height: 60px;
+  background-color: #ea8564;
+  animation-name: html;
+  animation-duration: 4s;
+  margin: 10px;
+}
+@keyframes html {
+  0% {
+    width: 5%;
+  }
+  100% {
+    width: 70%;
+  }
+}
+
+#Skill-CSS {
+  width: 50%;
+  height: 60px;
+  background-color: #55a69f;
+  animation-name: css;
+  animation-duration: 5s;
+  margin: 10px;
+}
+@keyframes css {
+  0% {
+    width:5%;
+  }
+ 100% {
+    width: 50%;
+  }
+}
+
+#Skill-JS {
+  width: 20%;
+  height: 60px;
+  background-color: #ede029c6;
+  animation-name: js;
+  animation-duration: 5s;
+  margin: 10px;
+}
+@keyframes js {
+  0% {
+    width: 5%;
+  }
+  100% {
+    width: 20%;
+  }
+}
+#Skill-office {
+  width: 90%;
+  height: 60px;
+  animation-name: office;
+  animation-duration: 3s;
+  background-color: #eb3838;
+  margin: 10px;
+}
+@keyframes office {
+  0% {
+    width: 5%;
+  }
+  100% {
+    width: 90%;
+  }
+}
+#Skill-Miro {
+  width: 80%;
+  height: 60px;
+  animation-name: Miro;
+  animation-duration: 3s;
+  background-color: #dc8c1a;
+  margin: 10px;
+}
+@keyframes Miro {
+  0% {
+    width: 5%;
+  }
+  100% {
+    width: 80%;
+  }
+}
+#Skill-Trello {
+  width: 60%;
+  height: 60px;
+  animation-name: Trello;
+  animation-duration: 4s;
+  background-color: #4946ffb3;
+  margin: 10px;
+}
+@keyframes Trello {
+  0% {
+    width: 5%;
+  }
+  100% {
+    width: 60%;
+  }
+}
+#Skill-Figma {
+  width: 70%;
+  height: 60px;
+  animation-name: Figma;
+  animation-duration: 3s;
+  background-color: #ff209ed9;
+  margin: 10px;
+}
+@keyframes Figma {
+  0% {
+    width: 5%;
+  }
+  100% {
+    width: 70%;
+  }
+}
+#Skill-Bootstrap {
+  width: 50%;
+  height: 60px;
+  background-color: #7d09aee3;
+  animation-name: Bootstrap;
+  animation-duration: 5s;
+  margin: 10px;
+}
+@keyframes Bootstrap {
+  0% {
+    width:5%;
+  }
+ 100% {
+    width: 50%;
+  }
+}
+
+.Skill-Area {
+  z-index: 1;
+  float: left;
+  margin-top: 5px;
+  margin-left: 15px;
+  text-shadow: none;
+  color: #fff;
+  font-size: 18px;
+}
+.TitleText{
+
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+}
+.PercentText {
+  z-index: 3;
+  position: relative;
+  padding-right: 15px;
+  margin-top: 15px;
+  float: right;
+  text-shadow: none;
+  color: #fff;
+  font-size: 18px;
+}
